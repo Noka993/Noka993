@@ -37,10 +37,3 @@
 ![MS SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
-
----
-###
-
-<img src="https://raw.githubusercontent.com/Noka993/Noka993/output/snake.svg" alt="Snake animation" />
-
-###
