@@ -6,7 +6,7 @@
 
 🎯 I'm passionate about programming, data analysis, backend development, and DevOps.
 
-## 🧠 Technologies & Skills
+# Technologies & Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
@@ -37,3 +37,77 @@
 ![MS SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
+
+# Projects
+
+A curated list of my recent software development projects – covering APIs, full-stack applications, and data science pipelines. Each one emphasizes clean architecture, good practices, and maintainability.
+
+---
+
+### 🔹 [FastAPI PostgreSQL Posts API](https://github.com/Noka993/fast-api)
+
+REST API built with **FastAPI**, **PostgreSQL**, and **SQLAlchemy ORM**, supporting JWT-based user authentication and full CRUD operations on posts.
+
+- ✅ Unit tests with **pytest**
+- 🧬 DB migrations via **Alembic**
+- 🐳 Dockerized & containerized
+- 🔁 CI/CD with **GitHub Actions**
+
+📦 **Deployed** on a local Ubuntu Server (VM).
+
+---
+
+### 🔹 [Recook](https://github.com/Noka993/recook)
+
+Recipe-sharing app with:
+
+- 🍳 **Flask REST API** with SQLite and SQLAlchemy
+- ⚛️ React frontend
+- 🔐 JWT-based authentication
+- 🧂 CRUD for recipes, ingredients, and favorites
+
+Aims to offer **personalized recipe recommendations** in future iterations.
+
+---
+
+### 🔹 [Blog API](https://github.com/Noka993/blog-api)
+
+A simple and scalable blog platform API using **FastAPI**, **SQLAlchemy**, and **PostgreSQL**.
+
+- 📝 CRUD on posts
+- 🔎 Search by content
+- 🔐 Auth with JWT
+- 🧬 Alembic for migrations
+- 📄 Interactive docs with Swagger & ReDoc
+
+Great for showcasing API design best practices.
+
+---
+
+### 🔹 [Mobile Phone Price Classification](https://github.com/Noka993/mobile-price-analysis)
+
+🧠 A machine learning pipeline to classify mobile phones into 4 price categories based on specs.
+
+- 🔍 Models: Logistic Regression, LDA, Random Forest, Voting Ensemble (XGBoost, KNN, etc.)
+- 📊 Visualizations with SHAP & stats
+- 📈 Best Accuracy: **91% (Random Forest)**  
+- 🧪 Fully modular codebase with experiment-ready scripts
+
+📄 Includes a detailed [PDF Report](https://github.com/Noka993/mobile-price-analysis/blob/main/MAD_2.pdf) (Polish).
+
+---
+
+### 🔹 [Contacts CRUD Website](https://github.com/Noka993/contacts-crud-website)
+
+Full-stack contact manager built with:
+
+- 🖥️ **Frontend**: React + Vite + CSS  
+- ⚙️ **Backend**: Flask API + SQLAlchemy + SQLite  
+- 🔄 Full CRUD: create, edit, delete contacts  
+- 📬 Real-time updates via frontend state
+
+Simple and effective UI with modal forms and error handling. Clean separation of concerns and CORS support.
+
+---
+
+Feel free to explore the repositories for source code, setup instructions, and project documentation!
