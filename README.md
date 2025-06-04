@@ -2,9 +2,9 @@
 
 ###
 
-✨My name is Miłosz and I'm a computer science student at Warsaw University of Life Sciences (SGGW).
+✨ My name is Miłosz and I'm an Information Technology student at Warsaw University of Life Sciences (SGGW).
 
-🎯I'm passionate about programming, data analysis, backend development, and DevOps.
+🎯 I'm passionate about programming, data analysis, backend development, and DevOps.
 
 ## 🧠 Technologies & Skills
 
