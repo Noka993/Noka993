@@ -70,17 +70,23 @@ Aims to offer **personalized recipe recommendations** in future iterations.
 
 ---
 
-### 🔹 [Blog API](https://github.com/Noka993/blog-api)
+### 🔹 [PW & Punktoza Scrapers](https://github.com/IO-Lab2)
 
-A simple and scalable blog platform API using **FastAPI**, **SQLAlchemy**, and **PostgreSQL**.
+A set of **academic web scrapers** built with Scrapy and Playwright:
 
-- 📝 CRUD on posts
-- 🔎 Search by content
-- 🔐 Auth with JWT
-- 🧬 Alembic for migrations
-- 📄 Interactive docs with Swagger & ReDoc
+- 🕵️‍♂️ **PW Scraper**  
+  Collects structured data from the Warsaw University of Technology:  
+  - 👨‍🏫 Scientists’ profiles, 🧾 publications, 🏛️ organizational structure  
+  - 🧠 Smart pipelines with PostgreSQL integration  
+  - 🪄 Handles JavaScript-rendered pages via Playwright
 
-Great for showcasing API design best practices.
+- 📰 **Punktoza Scraper**  
+  Scrapes journal data from punktoza.pl:  
+  - 📈 Impact Factor points, journal titles, publishers  
+  - 🗃️ Stores data in a PostgreSQL database  
+  - 🤝 Developed collaboratively during academic work
+
+Useful for **academic data aggregation**, **analytics**, or **research management tools**.
 
 ---
 
