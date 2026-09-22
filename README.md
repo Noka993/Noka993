@@ -64,8 +64,6 @@ Cloud-native, microservices-based real-time chat application built with **Java 2
 - 🐳 Dockerized development environment
 - 🧪 Unit and integration testing with JUnit and Testcontainers
 
-The project also includes a React frontend built with Vite and Material UI.
-
 ---
 
 ### 🔹 [FastAPI PostgreSQL Posts API](https://github.com/Noka993/fast-api)
