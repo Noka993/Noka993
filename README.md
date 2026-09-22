@@ -70,7 +70,7 @@ Aims to offer **personalized recipe recommendations** in future iterations.
 
 ---
 
-### 🔹 [PW & Punktoza Scrapers](https://github.com/IO-Lab2)
+### 🔹 [PW & Punktoza Scrapers](https://github.com/IO-Lab2/Scraper/tree/punktoza_scraper)
 
 A set of **academic web scrapers** built with Scrapy and Playwright:
 
