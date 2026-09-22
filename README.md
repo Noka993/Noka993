@@ -94,21 +94,6 @@ Aims to offer **personalized recipe recommendations** in future iterations.
 
 ---
 
-### 🔹 [Orang Social Platform](https://github.com/Cube0fDestiny/angular-projekt)
-
-Full-stack social platform with an **Angular 19** frontend and a Node.js microservices backend.
-
-- 👥 User profiles, friends, groups, events, and posts
-- 💬 Real-time chat and notifications
-- 🔐 JWT authentication
-- 🐇 RabbitMQ-based event communication
-- 🗄️ PostgreSQL persistence
-- 🐳 Dockerized services and Angular frontend
-
-This project is included as a related full-stack project; it is not a Spring Boot application.
-
----
-
 ### 🔹 [PW & Punktoza Scrapers](https://github.com/IO-Lab2/Scraper/tree/punktoza_scraper)
 
 A set of **academic web scrapers** built with Scrapy and Playwright:
